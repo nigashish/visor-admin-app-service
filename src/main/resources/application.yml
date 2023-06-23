@@ -2,10 +2,10 @@ server:
   port: 9196
 spring:
   application:
-    name: VISOR-ADMINAPP-SERVICE
+    name: visor-adminapp-service
   
   datasource:
-    url: jdbc:postgresql://localhost:5432/accelerate_migrate_dev
+    url: jdbc:postgresql://localhost:5432/accelerate_dev
     username: accelerate
     password: password
  
